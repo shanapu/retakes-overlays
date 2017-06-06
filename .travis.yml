@@ -15,7 +15,7 @@ install:
 before_script:
     - cd addons/sourcemod/scripting/
     - chmod +x spcomp
-script: ./compile.sh ./scripting/retake_overlays.sp
+script: ./compile.sh retake_overlays.sp
 
 notifications:
     email: false
