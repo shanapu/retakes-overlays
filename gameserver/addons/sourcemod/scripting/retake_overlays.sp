@@ -46,7 +46,7 @@ public Plugin myinfo = {
 	name = "Retake - Bombsite overlays",
 	author = "shanapu",
 	description = "Show a overlay with the actual bomsite",
-	version = "1.0",
+	version = "1.1",
 	url = "https://github.com/shanapu/retake-overlays"
 };
 
