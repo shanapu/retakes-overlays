@@ -1,0 +1,59 @@
+[URL="https://forums.alliedmods.net/showthread.php?p=2522638&nojs=1#goto_threadrating"]Rate Thread		 [IMG]https://forums.alliedmods.net/images/misc/menu_open.svg[/IMG][IMG]https://forums.alliedmods.net/images/rating/rating_5.svg[/IMG][/URL]
+
+[B][SIZE="5"]Retake - Bombsite overlays[/SIZE][/B] for [URL="https://forums.alliedmods.net/showthread.php?t=262658"]splewis Retake[/URL]
+
+Shows on roundstart a overlays which bombsite is active.
+
+[img]http://shanapu.de/img/a.jpg[/img]
+
+[img]http://shanapu.de/img/b.jpg[/img]
+
+[B][u]ConVars[/u][/B]
+[code]
+sm_retake_overlays_team - Show overlays only for counter-terrorists  
+sm_retake_overlays_time - How long show the Bombsite overlays? in seconds  
+sm_retake_overlays_path_a - Path to the bombsite A overlay DONT TYPE .vmt or .vft  
+sm_retake_overlays_path_b - Path to the bombsite B overlay DONT TYPE .vmt or .vft  
+[/code]
+
+[U][B]Required plugins[/B][/U]
+[LIST]
+[*][URL="https://forums.alliedmods.net/showthread.php?t=262658"]Retake[/URL] by splewis
+[/LIST]
+
+[U][B]ChangeLog[/B][/U]
+[QUOTE]
+v1.0
+[LIST]
+[*]initial release
+[/LIST]
+[/QUOTE]
+
+[U][B]Credits[/B][/U] :bacon!:
+Big thanks @splewis for his great work!
+Also big thanks to all sourcemod & metamod developers out there!
+
+[B][U]Include file for compile[/U][/B]
+[LIST]
+[*][URL="https://github.com/splewis/csgo-retakes/blob/master/scripting/include/retakes.inc"]retakes.inc[/URL]
+[*][URL="https://github.com/shanapu/overlays.inc/blob/master/addons/sourcemod/scripting/include/overlays.inc"]overlays.inc[/URL]
+[/LIST]
+
+[B][U]Installation[/U][/B]
+[QUOTE][LIST=1]
+[*]Open [u]gameserver[/u] folder and copy the folders [B]addons/[/B] & [B]materials/[/B] to [U]your gameservers root[/U] [B]csgo/[/B] directory  
+  
+[*]Open [u]fastDL[/u] folder and copy the folder [B]materials/[/B] to your [U]FastDownload servers[/U] [B]csgo/[/B] directory  
+    
+[*]Run plugin for the first time and [U].cfg file will be generated[/U]  
+  
+[*]Have fun! Give feedback!
+[/LIST]
+[/QUOTE]
+
+
+[U][B]Github[/B][/U]
+[url]https://github.com/shanapu/retake-overlays[/url]
+
+
+[SIZE="1"]You like my work for the community?[/SIZE] [URL="https://www.paypal.me/shanapu"] [IMG]https://www.paypalobjects.com/webstatic/en_US/i/btn/png/silver-rect-paypal-26px.png[/IMG][/URL]

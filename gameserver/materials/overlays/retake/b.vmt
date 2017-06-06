@@ -1,0 +1,5 @@
+"MonitorScreen"
+{
+	"$basetexture" "overlays/retake/b"
+  	"$translucent" 1
+}
